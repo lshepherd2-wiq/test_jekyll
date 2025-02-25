@@ -1,5 +1,5 @@
 ---
-title: Home
+title: DOCS
 layout: home
 ---
 
