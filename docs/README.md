@@ -1,4 +1,4 @@
-# just-the-docs-template (MOO)
+# just-the-docs-template (d)
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
