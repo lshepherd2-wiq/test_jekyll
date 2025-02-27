@@ -1,6 +1,6 @@
 # just-the-docs-template (d)
 
-ATE MY CRAYON CAT
+ATE MY CRAYON CAT derp
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
