@@ -71,7 +71,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     # Only deploy on merge to main branch (PR is merged to main)
-    if: github.event.pull_request.merged == true && github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/main'
     steps:      
       - name: Deploy to GitHub Pages
         id: deployment
