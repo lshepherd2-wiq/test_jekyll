@@ -17,8 +17,8 @@ on:
     # Trigger on PR changes and close (merge = closed)
     types: [opened, synchronize, reopened, closed] 
     
-  merge_group:
-    types: [checks_requested]
+  # merge_group:
+  #   types: [checks_requested]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
